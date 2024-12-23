@@ -1,8 +1,8 @@
-Time Series Analysis and Forecasting
-Project Overview
+**Time Series Analysis and Forecasting**
+**Project Overview**
 This project focuses on analyzing and forecasting time series data using various statistical and machine learning techniques. The dataset used is from Walmart, containing weekly sales information alongside key factors like holidays, temperature, fuel price, and unemployment rates. The project includes exploratory data analysis (EDA), feature engineering, time series decomposition, and predictive modeling.
 
-Key Objectives
+**Key Objectives**
 Perform exploratory data analysis (EDA) to understand trends, seasonality, and patterns in the data.
 Engineer meaningful features to enhance model performance.
 Decompose the time series into trend, seasonality, and residual components.
