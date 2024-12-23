@@ -66,4 +66,4 @@ Tableau/Power BI for dashboard visualization.
 Results and Insights
 Detailed analysis of historical sales trends and seasonality.
 Forecasts of weekly sales for the next period with error metrics evaluation.
-Recommendations for optimizing inventory and resource allocation during peak seasons and holidays.
+Recommendations for optimizing inventory and resource allocation during peak seasons and holidays
