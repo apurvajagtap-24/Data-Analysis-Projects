@@ -5,26 +5,47 @@ This project provides an in-depth analysis of job market trends across the Unite
 The dataset contains synthetic job postings and includes the following columns:
 
 Job Id: Unique identifier for each job posting.
+
 Experience: Required or preferred years of experience for the job.
+
 Qualifications: Educational qualifications needed for the job.
+
 Salary Range: The range of salaries or compensation offered for the position.
+
 Location: City or area where the job is located.
+
 Country: Country where the job is located.
+
 Latitude & Longitude: Coordinates for the job location.
+
 Work Type: Type of employment (e.g., full-time, part-time, contract).
+
 Company Size: Approximate size of the hiring company.
+
 Job Posting Date: Date when the job posting was made public.
+
 Preference: Specific preferences for applicants (e.g., Only Male or Female).
+
 Contact Person: Name of the recruiter or contact person for the job.
+
 Contact: Contact details for job inquiries.
+
 Job Title: The advertised job title.
+
 Role: Job category or role (e.g., Developer, Manager).
+
 Job Portal: Platform or website where the job was posted.
+
 Job Description: Responsibilities and requirements of the job.
+
 Benefits: Benefits provided (e.g., health insurance, retirement plans).
+
 Skills: Required skills for the job.
+
 Responsibilities: Specific job responsibilities.
+
 Company Name: Name of the hiring company.
+
 Company Profile: Brief overview of the company.
 
 
@@ -50,9 +71,12 @@ This project includes the following visualizations:
 
 USA Job Density Map:
 Plots job locations on a map using latitude and longitude.
+
 Salary Heatmap by State:
 Displays salary ranges, color-coded from highest to lowest, across the U.S.
+
 Bar Charts and Pie Charts:
 Show distributions of work types, company sizes, and qualifications.
+
 Time Series Analysis:
 Tracks trends in job postings over time.
