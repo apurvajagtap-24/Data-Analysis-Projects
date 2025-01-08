@@ -26,6 +26,8 @@ Skills: Required skills for the job.
 Responsibilities: Specific job responsibilities.
 Company Name: Name of the hiring company.
 Company Profile: Brief overview of the company.
+
+
 🔍 Key Features
 Data Cleaning & Transformation:
 
@@ -40,8 +42,11 @@ Statistical Insights:
 
 Analyzed job trends based on qualifications, experience, and work type.
 Identified top industries and roles with the highest demand.
+
+
 📊 Visualizations
 This project includes the following visualizations:
+
 
 USA Job Density Map:
 Plots job locations on a map using latitude and longitude.
